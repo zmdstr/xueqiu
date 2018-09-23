@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+# coding: utf-8
 from salary_increase import count_money
 
 while True:
